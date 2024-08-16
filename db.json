@@ -1,0 +1,61 @@
+{
+  "products":[
+    {
+      "id":1,
+      "name":"Anchor Diamond Ring",
+      "image":"https://i.postimg.cc/z3m7RstM/Anchor-Diamond-Ring.webp",
+      "category":"Diamond",
+      "price":49.00
+    },
+    {
+      "id":2,
+      "name":"Akila diamond bracelet",
+      "image":"https://i.postimg.cc/NfwPFX30/Akila-diamond-bracelet.webp",
+      "category":"Diamond",
+      "price":44.00
+    },
+    {
+      "id":3,
+      "name":"Breah diamond bracelet",
+      "image":"https://i.postimg.cc/59Lxyp6s/Breah-diamond-bracelet.webp",
+      "category":"Diamond",
+      "price":39.00
+    },
+    {
+      "id":4,
+      "name":"Genelia Diamond Earrings",
+      "image":"https://i.postimg.cc/7LjkYTDv/Genelia-Diamond-Earrings.webp",
+      "category":"Diamond",
+      "price":59.00
+    },
+    {
+      "id":5,
+      "name":"Klein Diamond Ring",
+      "image":"https://i.postimg.cc/Gpq1JK1z/Klein-Diamond-Ring.jpg",
+      "category":"Diamond",
+      "price":29.00
+    },
+    {
+      "id":6,
+      "name":"Akila diamond pentent",
+      "image":"https://i.postimg.cc/26D2yRtK/Akila-diamond-pentent.webp",
+      "category":"Diamond",
+      "price":34.00
+    },
+    {
+      "id":7,
+      "name":"Leah Diamond Bracelet",
+      "image":"https://i.postimg.cc/LsTZtcX7/leah-diamond-bracelet.jpg",
+      "category":"Diamond",
+      "price":69.00
+    },
+    {
+      "id":8,
+      "name":"Diana Diamond Earrings",
+      "image":"https://i.postimg.cc/VLn9SHqy/Diana-Diamond-Earrings.webp",
+      "category":"Diamond",
+      "price":24.00
+    }
+
+  ]
+}
